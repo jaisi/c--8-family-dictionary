@@ -1,0 +1,8 @@
+/Users/jaisina/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp1.1/family_dictionary.deps.json
+/Users/jaisina/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp1.1/family_dictionary.runtimeconfig.json
+/Users/jaisina/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp1.1/family_dictionary.runtimeconfig.dev.json
+/Users/jaisina/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp1.1/family_dictionary.dll
+/Users/jaisina/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp1.1/family_dictionary.pdb
+/Users/jaisina/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp1.1/family_dictionary.AssemblyInfo.cs
+/Users/jaisina/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp1.1/family_dictionary.dll
+/Users/jaisina/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp1.1/family_dictionary.pdb
